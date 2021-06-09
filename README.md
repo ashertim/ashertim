@@ -1,12 +1,13 @@
-# Hello, World!
+# Hello, World! 🌎
 
 ### ℹ️ About Me
-* Pronouns: he/him
 * Computer Science major / Business Leadership minor @ Virginia Tech
 * Interest in software engineering & game development
+* Pronouns: he/him 👦🏻
 * Hobbies: 🎮, 🥾🏞️, 🏐, 🎾, 🎶
 
 ### 🧑🏻‍💻 Languages and Software
+![Java](https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg)
 Under Construction 👷🏻‍♂️🚧
 
 ### 🛠️ Projects

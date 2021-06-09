@@ -1,18 +1,18 @@
-## Hello, World!
+# Hello, World!
 
-# ℹ️ About Me
+### ℹ️ About Me
 * Pronouns: he/him
 * Computer Science major / Business Leadership minor @ Virginia Tech
 * Interest in software engineering & game development
 * Hobbies: 🎮, 🥾🏞️, 🏐, 🎾, 🎶
 
-# 🧑🏻‍💻 Languages and Software
+### 🧑🏻‍💻 Languages and Software
 Under Construction 👷🏻‍♂️🚧
 
-# 🛠️ Projects
+### 🛠️ Projects
 Under Construction 👷🏻‍♂️🚧
 
-# ✉️ Contact
+### ✉️ Contact
 * [Email](mailto:ashertim@vt.edu)
 * [LinkedIn](https://www.linkedin.com/in/tim-asher-398661160)
 * TIM#5995 on Discord

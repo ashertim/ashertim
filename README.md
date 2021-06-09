@@ -1,6 +1,22 @@
 ## Hello, World!
 
+# ℹ️ About Me
+* Pronouns: he/him
+* Computer Science major / Business Leadership minor @ Virginia Tech
+* Interest in software engineering & game development
+* Hobbies: 🎮, 🥾🏞️, 🏐, 🎾, 🎶
+
+# 🧑🏻‍💻 Languages and Software
 Under Construction 👷🏻‍♂️🚧
+
+# 🛠️ Projects
+Under Construction 👷🏻‍♂️🚧
+
+# ✉️ Contact
+* [Email](mailto:ashertim@vt.edu)
+* [LinkedIn](https://www.linkedin.com/in/tim-asher-398661160)
+* TIM#5995 on Discord
+
 <!--
 **ashertim/ashertim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

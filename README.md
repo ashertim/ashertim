@@ -7,7 +7,7 @@
 * Hobbies: 🎮, 🥾🏞️, 🏐, 🎾, 🎶
 
 ### 🧑🏻‍💻 Languages and Software
-![Java](https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg)
+![Java](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png)
 Under Construction 👷🏻‍♂️🚧
 
 ### 🛠️ Projects
